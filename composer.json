@@ -1,0 +1,28 @@
+{
+    "name": "adithyanrdas/customer",
+    "description": "Import customer data using csv of json file",
+    "require": {
+      "php": ">=7.3.0",
+      "magento/framework": "*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "OSL-3.0",
+      "AFL-3.0"
+    ],
+    "authors": [
+      {
+        "name": "Adithyan R Das",
+        "email": "adithyanrdas@gmail.com",
+      }
+    ],
+    "autoload": {
+      "files": [
+        "registration.php"
+      ]
+    },
+    "psr-4": {
+      "Adithyan\\Customer\\": ""
+    }
+  }
