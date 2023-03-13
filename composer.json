@@ -24,5 +24,6 @@
     },
     "psr-4": {
       "Adithyan\\Customer\\": ""
-    }
+    },
+  "minimum-stability":"dev"
   }
