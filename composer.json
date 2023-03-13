@@ -25,5 +25,9 @@
     "psr-4": {
       "Adithyan\\Customer\\": ""
     },
-  "minimum-stability":"dev"
+  "minimum-stability":"dev",
+    "repositories": {
+        "type": "composer",
+        "url": "https://github.com/adithyanrdas/customer"
+    }
   }
