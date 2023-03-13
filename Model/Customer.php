@@ -1,6 +1,6 @@
 <?php
 
-namespace Adithyan\Customer\Model;
+namespace Adithyanrdas\Customer\Model;
 
 use Magento\Framework\Exception\FileSystemException;
 use Magento\Framework\Filesystem\Driver\File;

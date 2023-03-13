@@ -1,12 +1,12 @@
 <?php
 
-namespace Adithyan\Customer\Console;
+namespace Adithyanrdas\Customer\Console;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Input\InputOption;
-use Adithyan\Customer\Model\Customer;
+use Adithyanrdas\Customer\Model\Customer;
 
 class ImportCustomers extends Command
 {

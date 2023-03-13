@@ -3,7 +3,7 @@
    <type name="Magento\Framework\Console\CommandList">
        <arguments>
            <argument name="commands" xsi:type="array">
-               <item name="importCustomers" xsi:type="object">Adithyan\Customer\Console\ImportCustomers</item>
+               <item name="importCustomers" xsi:type="object">Adithyanrdas\Customer\Console\ImportCustomers</item>
            </argument>
        </arguments>
    </type>
